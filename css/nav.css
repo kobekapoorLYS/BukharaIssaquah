@@ -1,7 +1,19 @@
-﻿nav
+﻿main
+{
+    margin-top: 130px;
+}
+
+nav
 {
     width: 100%;
-    margin: 0;
+    overflow: hidden;
+    top: 0;
+    position: fixed;
+    left: 0;
+
+    background-color: #FFFFFF;
+
+    margin: 0 auto;
     text-align: center;
     padding: 10px;
     /*prevents users from highlighting nav text*/
@@ -22,6 +34,7 @@ ul, li
 ul
 {
     margin: auto;
+    display: table;
 }
 
 li

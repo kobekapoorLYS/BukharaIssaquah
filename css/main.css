@@ -6,3 +6,9 @@ body
     background-color: #FFFFFF;
     color: #000000;
 }
+
+img, h1, h2, h3, p, li, ul
+{
+    margin: 0;
+    padding: 0;
+}
