@@ -1,29 +1,33 @@
 ﻿nav
 {
-    display: inline-block;
     width: 100%;
     margin: 0;
     text-align: center;
     padding: 10px;
-
     /*prevents users from highlighting nav text*/
     -webkit-touch-callout: none; /* iOS Safari */
-    -webkit-user-select: none;   /* Safari */
-    -khtml-user-select: none;    /* Konqueror HTML */
-    -moz-user-select: none;      /* Firefox */
-    -ms-user-select: none;       /* Internet Explorer/Edge */
-    user-select: none;           /* Non-prefixed version, currently
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently
                                     supported by Chrome and Opera */
 }
 
 ul, li
 {
-    display: inline;
+    display: inline-block;
+}
+
+ul
+{
+    margin: auto;
 }
 
 li
 {
-    margin: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 
 #logo
