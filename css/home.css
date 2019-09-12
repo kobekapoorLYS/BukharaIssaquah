@@ -1,10 +1,18 @@
 ﻿body
 {
     text-align: center;
+    overflow-x: hidden;
 }
+
 #menu
 {
     width: 85%;
     background-color: #dc7844;
+    margin: auto;
+}
+
+#largePicture
+{
+    width: 99%;
     margin: auto;
 }
