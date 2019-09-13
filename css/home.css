@@ -9,10 +9,20 @@
     width: 85%;
     background-color: #dc7844;
     margin: auto;
+    position: relative;
 }
 
 #largePicture
 {
     width: 99%;
     margin: auto;
+}
+
+#verticalLine
+{
+    height: 85%;
+    border-right: 1px solid #FFFFFF;
+    width: 50%;
+    top:7.5%;
+    position: absolute;
 }
