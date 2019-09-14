@@ -18,46 +18,46 @@ nav
     padding: 10px;
     /*prevents users from highlighting nav text*/
     -webkit-touch-callout: none; /* iOS Safari */
-    -webkit-user-select: none; /* Safari */
-    -khtml-user-select: none; /* Konqueror HTML */
-    -moz-user-select: none; /* Firefox */
-    -ms-user-select: none; /* Internet Explorer/Edge */
-    user-select: none; /* Non-prefixed version, currently
+    -webkit-user-select: none;   /* Safari */
+    -khtml-user-select: none;    /* Konqueror HTML */
+    -moz-user-select: none;      /* Firefox */
+    -ms-user-select: none;       /* Internet Explorer/Edge */
+    user-select: none;           /* Non-prefixed version, currently
                                     supported by Chrome and Opera */
 }
 
-ul, li
+nav ul, nav li
 {
     display: inline-block;
 }
 
-ul
+nav ul
 {
     margin: auto;
     display: table;
 }
 
-li
+nav li
 {
     margin-left: 25px;
     margin-right: 25px;
 }
 
-#logo
+nav #logo
 {
     margin-left: 50px;
     margin-right: 50px;
     vertical-align: middle;
 }
 
-a
+nav a
 {
     text-decoration: none;
-    cursor:pointer;
+    cursor: pointer;
     color: #000000;
 }
 
-a:hover
+nav a:hover
 {
     color: #dc7844;
 }
