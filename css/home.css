@@ -10,6 +10,8 @@
     background-color: #dc7844;
     margin: auto;
     position: relative;
+    overflow: hidden;
+    padding: 10px;
 }
 
 #largePicture
@@ -54,4 +56,52 @@
 #menuNav li
 {
     margin: 0 5em;
+}
+
+.table
+{
+    width: 49%;
+    display: table;
+    margin: 0;
+    color: #FFFFFF;
+}
+
+.row
+{
+    display: table-row;
+}
+
+.cell
+{
+    display: table-cell;
+    padding: 5px;
+}
+
+.price
+{
+    text-align: right;
+    padding-bottom: 0;
+}
+
+.food
+{
+    text-align: left;
+    padding-bottom: 0;
+}
+
+.desc
+{
+    padding-top: 0;
+    text-align: left;
+    text-indent: 20px;
+}
+
+.left
+{
+    float: left;
+}
+
+.right
+{
+    float: right;
 }

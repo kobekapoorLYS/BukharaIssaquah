@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\css",
-    "\\img"
+    "\\img",
+    "\\menu"
   ],
-  "SelectedNode": "\\css\\nav.css",
+  "SelectedNode": "\\menu\\menu.json",
   "PreviewInSolutionExplorer": false
 }
