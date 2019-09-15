@@ -52,5 +52,64 @@
             "description": "desc 5",
             "price": "$0.84"
         }
+    ],
+    "appetizers": [
+        {
+            "name": "Appetizer 1",
+            "description": "desc 1",
+            "price": "$1.00"
+        },
+        {
+            "name": "Appetizer 2",
+            "description": "desc 2",
+            "price": "$2.34"
+        },
+        {
+            "name": "Appetizer 3",
+            "description": "desc 3",
+            "price": "$25.00"
+        },
+        {
+            "name": "Appetizer 4",
+            "description": "desc 4",
+            "price": "$10.00"
+        },
+        {
+            "name": "Appetizer 5",
+            "description": "desc 5",
+            "price": "$54.00"
+        },
+        {
+            "name": "Appetizer 6",
+            "description": "desc 6",
+            "price": "$12.00"
+        }
+    ],
+    "vegetation": [
+        {
+            "name": "vegetation 1",
+            "description": "desc 1",
+            "price": "$0.01"
+        },
+        {
+            "name": "vegetation 2",
+            "description": "desc 2",
+            "price": "$225.00"
+        },
+        {
+            "name": "vegetation 3",
+            "description": "desc 3",
+            "price": "$25.04"
+        },
+        {
+            "name": "vegetation 4",
+            "description": "desc 4",
+            "price": "$72.00"
+        },
+        {
+            "name": "vegetation 5",
+            "description": "desc 5",
+            "price": "$0.84"
+        }
     ]
 }

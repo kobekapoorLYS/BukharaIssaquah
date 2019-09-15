@@ -29,44 +29,25 @@
     <main>
         <img src="img/test.png" id="largePicture" alt="indian food"/>
         <div name="menu" id="menuBar">
-            <div id="menuDesc">
+            <!--BUG: covers up buttons and prevents from clicking-->
+            <!--<div id="menuDesc">
                 <h2>Menu</h2>
                 <p>[NOT FULL MENU]</p>
                 <i>For full Menu See Our Yelp</i>
-            </div>
+            </div>-->
             
             <ul id="menuNav">
-                <li><a>Appetizers</a></li>
-                <li><a>Vegetation</a></li>
-                <li><a>Entrees</a></li>
-                <li><a>Desserts</a></li>
+                <li class="menuButton"><a id="appetizerButton">Appetizers</a></li>
+                <li class="menuButton" id="vegetationButton">Vegetation</li>
+                <li class="menuButton selectedMenu" id="entreesButton">Entrees</li>
+                <li class="menuButton" id="dessertsButton">Desserts</li>
             </ul>
         </div>
         <div id="menu">
             <div id="verticalLine"></div>
             <div class="left table" align="left">
-                <!--<div class="row">
-                    <div class="cell food">Food 1</div>
-                    <div class="cell price">Price 1</div>
-                </div>
-                <div class="row"><div class="cell desc">Desc 1</div></div>
-                <div class="row">
-                    <div class="cell food">Food 3</div>
-                    <div class="cell price">Price 3</div>
-                </div>
-                <div class="row"><div class="cell desc">Desc 3</div></div>-->
             </div>
             <div class="right table" align="right">
-                <!--<div class="row">
-                    <div class="cell food">Food 2</div>
-                    <div class="cell price">Price 2</div>
-                </div>
-                <div class="row"><div class="cell desc">Desc 2</div></div>
-                <div class="row">
-                    <div class="cell food">Food 4</div>
-                    <div class="cell price">Price 4</div>
-                </div>
-                <div class="row"><div class="cell desc">Desc 4</div></div>-->
             </div>
         </div>
     </main>

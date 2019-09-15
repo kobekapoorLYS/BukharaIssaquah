@@ -105,3 +105,38 @@
 {
     float: right;
 }
+
+
+
+.menuButton
+{
+    color: #000000;
+    cursor: pointer;
+    text-decoration: none;
+
+    /*prevents users from highlighting nav text*/
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently
+                                    supported by Chrome and Opera */
+}
+
+.menuButton:hover
+{
+    color: #dc7844;
+}
+
+.selectedMenu
+{
+    color: #dc7844;
+   
+}
+
+.selectedMenu:hover
+{
+    color: #000000;
+}
+}

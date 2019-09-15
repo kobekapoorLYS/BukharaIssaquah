@@ -7,6 +7,10 @@ function loadMenu(type)
   //access menu json
   $.getJSON("menu/menu.json", function (json)
   {
+    //remove old items
+    $(".left, .right").empty();
+
+
     //loops through every item in the entrees object
     for (var i = 0; i < json[type].length; i++)
     {
