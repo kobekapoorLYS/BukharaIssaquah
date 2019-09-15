@@ -6,19 +6,19 @@
             "price": "$5.00"
         },
         {
-            "name": "Entree 1",
-            "description": "desc 1",
-            "price": "$5.00"
+            "name": "Entree 2",
+            "description": "desc 2",
+            "price": "$25.00"
         },
         {
-            "name": "Entree 1",
-            "description": "desc 1",
-            "price": "$5.00"
+            "name": "Entree 3",
+            "description": "desc 3",
+            "price": "$5.04"
         },
         {
-            "name": "Entree 1",
-            "description": "desc 1",
-            "price": "$5.00"
+            "name": "Entree 4",
+            "description": "desc 4",
+            "price": "$7.00"
         }
     ]
 }
