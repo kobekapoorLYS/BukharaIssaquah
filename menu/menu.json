@@ -19,6 +19,38 @@
             "name": "Entree 4",
             "description": "desc 4",
             "price": "$7.00"
+        },
+        {
+            "name": "Entree 5",
+            "description": "desc 5",
+            "price": "$0.14"
+        }
+    ],
+    "desserts": [
+        {
+            "name": "Dessert 1",
+            "description": "desc 1",
+            "price": "$0.01"
+        },
+        {
+            "name": "Dessert 2",
+            "description": "desc 2",
+            "price": "$225.00"
+        },
+        {
+            "name": "Dessert 3",
+            "description": "desc 3",
+            "price": "$25.04"
+        },
+        {
+            "name": "Dessert 4",
+            "description": "desc 4",
+            "price": "$72.00"
+        },
+        {
+            "name": "Dessert 5",
+            "description": "desc 5",
+            "price": "$0.84"
         }
     ]
 }
