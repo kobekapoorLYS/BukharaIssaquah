@@ -39,10 +39,10 @@
 
 #verticalLine
 {
-    height: 85%;
+    height: 70%;
     border-right: 1px solid #FFFFFF;
     width: 49.5%;
-    top: 7.5%;
+    top: 25%;
     position: absolute;
 }
 
