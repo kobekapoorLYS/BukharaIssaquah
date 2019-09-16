@@ -5,12 +5,14 @@ body
     font-size: 18px;
     background-color: #FFFFFF;
     color: #000000;
+    
     /*temp*/
     margin-bottom: 50px;
 }
 
-img, h1, h2, h3, p, li, ul
+img, h1, h2, h3, p, li, ul, div
 {
     margin: 0;
     padding: 0;
+    font-family: Open Sans;
 }
