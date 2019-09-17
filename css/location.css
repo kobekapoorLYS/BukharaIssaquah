@@ -1,0 +1,21 @@
+﻿body
+{
+    text-align: center;
+}
+
+#welcomeText
+{
+    color: #dc7844;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+#address
+{
+    color: #dc7844;
+}
+
+#map
+{
+    margin: 25px;
+}
