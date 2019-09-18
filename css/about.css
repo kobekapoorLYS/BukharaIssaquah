@@ -1,0 +1,30 @@
+﻿#aboutHeader
+{
+    color: #dc7844;
+    text-align: center;
+}
+
+#storyContainer
+{
+    width: 75%;
+    margin: auto;
+}
+
+#storyBlock
+{
+    float: left;
+    display: inline;
+    width: 50%;
+}
+
+#storyImg
+{
+    float: right;
+    width: 49%;
+    display: inline;
+}
+
+#quote
+{
+    color: #dc7844;
+}
