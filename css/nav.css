@@ -16,6 +16,9 @@ nav
     margin: 0 auto;
     text-align: center;
     padding: 10px;
+
+    z-index: 5;
+
     /*prevents users from highlighting nav text*/
     -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none;   /* Safari */
@@ -70,4 +73,25 @@ nav a:hover
 .currPage:hover
 {
     color: #000000;
+}
+
+/*Link floater stuff*/
+#linkFloater
+{
+    position: absolute;
+    left: 0;
+    background-color: #dc7844;
+    padding: 10px 10px 0 30px;
+    top: 200px;
+}
+
+#linkFloater a
+{
+    margin: 0;
+    padding: 0;
+}
+
+#linkFloater a img
+{
+    margin: 0;
 }
