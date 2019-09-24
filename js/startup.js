@@ -15,13 +15,14 @@ $(document).ready(function ()
     $("#menuHeader").text("Appetizers");
   });
 
+  //now vegetarian tab
   $('#vegetationButton').click(function ()
   {
     loadMenu("vegetation");
     $(".selectedMenu").removeClass("selectedMenu");
     $(this).addClass("selectedMenu");
 
-    $("#menuHeader").text("Vegetation");
+    $("#menuHeader").text("Vegetarian");
   });
 
   //now drinks tab
