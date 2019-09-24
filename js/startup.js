@@ -24,13 +24,14 @@ $(document).ready(function ()
     $("#menuHeader").text("Vegetation");
   });
 
+  //now drinks tab
   $('#entreesButton').click(function ()
   {
     loadMenu("entrees");
     $(".selectedMenu").removeClass("selectedMenu");
     $(this).addClass("selectedMenu");
 
-    $("#menuHeader").text("Entrees");
+    $("#menuHeader").text("Drinks");
   });
 
   $('#dessertsButton').click(function ()
