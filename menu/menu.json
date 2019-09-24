@@ -1,56 +1,91 @@
 {
     "entrees": [
         {
-            "name": "Entree 1",
-            "description": "desc 1",
-            "price": "$5.00"
+            "name": "SALTY LASSI",
+            "description": "",
+            "price": "$4.00"
         },
         {
-            "name": "Entree 2",
-            "description": "desc 2",
-            "price": "$25.00"
+            "name": "MASALA SODA",
+            "description": "",
+            "price": "$4.50"
         },
         {
-            "name": "Entree 3",
-            "description": "desc 3",
+            "name": "SWEET LASSI",
+            "description": "",
             "price": "$5.04"
         },
         {
-            "name": "Entree 4",
-            "description": "desc 4",
-            "price": "$7.00"
+            "name": "MASALA CHAI (SINGLE REFILL)",
+            "description": "",
+            "price": "$3.25"
         },
         {
-            "name": "Entree 5",
-            "description": "desc 5",
-            "price": "$0.14"
+            "name": "MANGO LASSI",
+            "description": "",
+            "price": "$4.25"
+        },
+        {
+            "name": "COFFEE (SINGLE REFILL)",
+            "description": "",
+            "price": "$3.25"
+        },
+        {
+            "name": "MANGO JUICE",
+            "description": "",
+            "price": "$4.00"
+        },
+        {
+            "name": "ICE TEA",
+            "description": "",
+            "price": "$3.25"
+        },
+        {
+            "name": "ORANGE JUICE",
+            "description": "",
+            "price": "$3.50"
+        },
+        {
+            "name": "SOFT DRINK",
+            "description": "",
+            "price": "$3.25"
+        },
+        {
+            "name": "APPLE JUICE",
+            "description": "",
+            "price": "$3.25"
         }
     ],
     "desserts": [
         {
-            "name": "Dessert 1",
-            "description": "desc 1",
-            "price": "$0.01"
+            "name": "GULABJAMUN (2 PIECES)",
+            "description": "Small donut like balls, deep fried and dipped in the honey sugar syrup.",
+            "price": "$4.50"
         },
         {
-            "name": "Dessert 2",
-            "description": "desc 2",
-            "price": "$225.00"
+            "name": "ZAFRANI KHEER",
+            "description": "Tradtional North Indian style rice pudding.",
+            "price": "$5.00"
         },
         {
-            "name": "Dessert 3",
-            "description": "desc 3",
-            "price": "$25.04"
+            "name": "RASMALAI (2 PIECES)",
+            "description": "A rich cheesecake without a crust and dipped in the milk-sugar syrup.",
+            "price": "$5.00"
         },
         {
-            "name": "Dessert 4",
-            "description": "desc 4",
-            "price": "$72.00"
+            "name": "CARROT HALWA",
+            "description": "A rich cheesecake without a crust and dipped in the milk-sugar syrup.",
+            "price": "$5.00"
         },
         {
-            "name": "Dessert 5",
-            "description": "desc 5",
-            "price": "$0.84"
+            "name": "KULFI",
+            "description": "Traditional Indian ice cream. Flavor Available as follows: <br> Orange $8 | Pista $5 | Mango $5",
+            "price": ""
+        },
+        {
+            "name": "MANGO CUSTARD",
+            "description": "A light and creamy desert made of ripe mango and custard powder.",
+            "price": "$5.00"
         }
     ],
     "appetizers": [
@@ -66,7 +101,7 @@
         },
         {
             "name": "PAKORA",
-            "description": "Delicately spiced fried fritters lightly batter in chic-peas flour and served with tamarind and mint sauce. <br> Vegetable 6 | Paneer 7 | Chicken 8 | Fish 9",
+            "description": "Delicately spiced fried fritters lightly batter in chic-peas flour and served with tamarind and mint sauce. <br> Vegetable $6 | Paneer $7 | Chicken $8 | Fish $9",
             "price": ""
         },
         {
@@ -83,6 +118,36 @@
             "name": "ALOO TIKKI CHOLEY",
             "description": "Crispy potato patties served with homemade Choley with three sauces.",
             "price": "$10.00"
+        },
+        {
+            "name": "SAMOSA CHAT DELIGHT",
+            "description": "Two crispy pastries stuffed with potatoes and green peas and served with on top homemade Chana and three sauces.",
+            "price": "$10.00"
+        },
+        {
+            "name": "ALOO TIKKI CHOLEY",
+            "description": "Crisp fried choice of your liking with green onions, soy, and garlic, sweet and sour sauce. <br> Cauliflower $7 | Chicken $8",
+            "price": ""
+        },
+        {
+            "name": "PAAPDI CHAT",
+            "description": "Puffed crispy wheat biscuits with herbs, potatoes, chickpeas and three Chutneys.",
+            "price": "$6.00"
+        },
+        {
+            "name": "HOT CHILI GARLIC SAUCE",
+            "description": "An all-time famous Indo-Chinese combination of tomato, garlic, chili and finished with soy sauce. <br> Paneer $7 | Chicken $8",
+            "price": ""
+        },
+        {
+            "name": "BUKHARA FRIED PRAWNS",
+            "description": "Tender Prawns marinated with chili flakes in rice flour batter and served with peanut sauce and in house salad.",
+            "price": "$13.00"
+        },
+        {
+            "name": "DAHI BHALLA CHAT",
+            "description": "Lentil ball served in Yogurt with tamarind and mint sauce.",
+            "price": "$6.00"
         }
     ],
     "vegetation": [
@@ -93,7 +158,7 @@
         },
         {
             "name": "MUTTER MASALA",
-            "description": "Fresh green peas cooked in creamy tomato curry sauce.<br>Aloo 12 | Mushroom 12 | Paneer 13",
+            "description": "Fresh green peas cooked in creamy tomato curry sauce.<br>Aloo $12 | Mushroom $12 | Paneer $13",
             "price": "$12.00"
         },
         {
@@ -118,7 +183,7 @@
         },
         {
             "name": "CHANA MASALA",
-            "description": "Chick peas cooked over a slow fire, blended with spices and tomatoes.<br>Plain | Potatoes",
+            "description": "Chick peas cooked over a slow fire, blended with spices and tomatoes. <br> Plain | Potatoes",
             "price": "$12.00"
         },
         {
