@@ -1,5 +1,5 @@
 //start off with entrees menu
-loadMenu("entrees");
+loadMenu("appetizers");
 
 $(document).ready(function ()
 {
