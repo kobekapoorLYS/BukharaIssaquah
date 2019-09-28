@@ -1,5 +1,5 @@
 {
-    "entrees": [
+    "drinks": [
         {
             "name": "SALTY LASSI",
             "description": "",
@@ -150,7 +150,7 @@
             "price": "$6.00"
         }
     ],
-    "vegetation": [
+    "vegetarian": [
         {
             "name": "ALDO GOBI",
             "description": "Cauliflower, Potatoes and onions sauteed with tomato based onion masala sauce and fresh herbs.",

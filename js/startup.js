@@ -16,9 +16,9 @@ $(document).ready(function ()
   });
 
   //now vegetarian tab
-  $('#vegetationButton').click(function ()
+  $('#vegetarianButton').click(function ()
   {
-    loadMenu("vegetation");
+    loadMenu("vegetarian");
     $(".selectedMenu").removeClass("selectedMenu");
     $(this).addClass("selectedMenu");
 
@@ -26,9 +26,9 @@ $(document).ready(function ()
   });
 
   //now drinks tab
-  $('#entreesButton').click(function ()
+  $('#drinksButton').click(function ()
   {
-    loadMenu("entrees");
+    loadMenu("drinks");
     $(".selectedMenu").removeClass("selectedMenu");
     $(this).addClass("selectedMenu");
 
