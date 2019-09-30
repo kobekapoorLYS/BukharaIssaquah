@@ -354,5 +354,128 @@
             "description": "A unique combination of chicken leg quarters, chicken tikka, lamb tikka, seekh kabab, fish, and prawns. All cooked in tandoori and served with grilled onions, peppers, lemon and our special tikka sauce.",
             "price": "$22.00"
         }
+    ],
+    "tandooriBreads": [
+        {
+            "name": "TANDOORI ROTI",
+            "description": "Unleavened whole wheat Bread.",
+            "price": "$2.75"
+        },
+        {
+            "name": "KASHMIR! NAAN",
+            "description": "Leavened Bread stuffed with cherries, raisins, cashew, fennel, and almonds",
+            "price": "$4.00"
+        },
+        {
+            "name": "LACHA PRATHA",
+            "description": "Unleavened layered whole wheat Bread.",
+            "price": "$4.00"
+        },
+        {
+            "name": "PANEER NAAN",
+            "description": "Leavened Bread stuffed with homemade cheese.",
+            "price": "$4.00"
+        },
+        {
+            "name": "ALOO PRATHA",
+            "description": "Unleavened whole wheat bread stuffed with potatoes. onions and spices.",
+            "price": "$4.00"
+        },
+        {
+            "name": "GARLIC SPINACH NAAN",
+            "description": "Leavened bread stuffed with spinach and topped with garlic.",
+            "price": "$4.00"
+        },
+        {
+            "name": "MALABAR PRATHA",
+            "description": "A Flaky flour bread cooked in hot plates (12 Pcs)",
+            "price": "$7.00"
+        },
+        {
+            "name": "CHILI AND CHEESE NAAN",
+            "description": "Leavened bread with fresh green chilies and parmesan cheese.",
+            "price": "$4.00"
+        },
+        {
+            "name": "PLAIN NAAN",
+            "description": "White leavened Bread.",
+            "price": "$2.75"
+        },
+        {
+            "name": "POORI",
+            "description": "Unleavened Bread deep fried to Golden Brown (2 Pcs).",
+            "price": "$5.00"
+        },
+        {
+            "name": "GARLIC NAAN",
+            "description": "Leavened Bread topped with Garlic.",
+            "price": "$3.25"
+        }
+    ],
+    "biryaniWorld": [
+        {
+            "name": "ROYAL BlRYANI",
+            "description": "A classic Mughlai dish of basmati rice cooked  with curry, green peas saffron served with Raita. <br> Vegetables $13 | Chicken (with Bone or Boneless) $14 | Lamb, Goat $16 | Prawns $17",
+            "price": ""
+        },
+        {
+            "name": "HAKKA NOODLES",
+            "description": "Thin Spaghetti cooked with green onions carrot. Bell pepper and finished with ginger soy sauce. <br> Vegetable $13 | Chicken $14",
+            "price": ""
+        },
+        {
+            "name": "FRIED RICE INOO-CHINESE",
+            "description": "Chinese fried rice cooked with green onion. ginger, garlic and touch of soy sauce. <br> Vegetable $13 | Chicken $14",
+            "price": ""
+        }
+    ],
+    "kids": [
+        {
+            "name": "FISH & CHIPS",
+            "description": "Cal fish fillets breaded and fried golden brown and served with fries, tartar sauce.",
+            "price": "$14.00"
+        },
+        {
+            "name": "STEAMED VEGETABLES",
+            "description": "A healthful medley of seasoned steamed vegetables",
+            "price": "$7.00"
+        },
+        {
+            "name": "CHICKEN TENDERS",
+            "description": "Our famous butter milk battered chicken tenderloin fried golden brown and served with seasoned steak fries and your choice of dipping sauce.",
+            "price": "$13.00"
+        },
+        {
+            "name": "FRENCH FRIES",
+            "description": "Perfectly cooked.",
+            "price": "$7.00"
+        }
+    ],
+    "sides": [
+        {
+            "name": "RAITA",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "MIXED PICKLES",
+            "description": "",
+            "price": "$3.50"
+        },
+        {
+            "name": "MANGO CHUTNEY",
+            "description": "",
+            "price": "$3.50"
+        },
+        {
+            "name": "PAPADUM",
+            "description": "",
+            "price": "$2.00"
+        },
+        {
+            "name": "BASMATI RICE",
+            "description": "",
+            "price": "$3.00"
+        }
     ]
 }
