@@ -38,20 +38,6 @@
     vertical-align: middle;
 }
 
-#verticalLine
-{
-    height: 70%;
-    border-right: 1px solid #FFFFFF;
-    width: 49.5%;
-    top: 25%;
-    position: absolute;
-}
-
-.menuButtonsContainer, .menuButtonsContainer li
-{
-    display: inline-block;
-}
-
 .menuButtonsContainer
 {
     padding: 12px;
@@ -107,6 +93,8 @@
 .left
 {
     float: left;
+    padding-right: 15px;
+    border-right: 1px solid #FFFFFF;
 }
 
 .right
