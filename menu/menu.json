@@ -211,5 +211,148 @@
             "description": "Baby whole potatoes with Indian spices and nutty butter sauce.",
             "price": "$12.00"
         }
+    ],
+    "soups": [
+        {
+            "name": "TOMATO SOUP",
+            "description": "Roasted Plum tomatoes cooked with basil and ginger flavor.",
+            "price": "$7.00"
+        },
+        {
+            "name": "MULLIGATAWNY SOUP",
+            "description": "Roasted chickpeas flour temper with Indian herbs and finished with coconut milk. <br> Plain $7 | Chicken $8 | Lamb $9",
+            "price": ""
+        },
+        {
+            "name": "DAALSOUP",
+            "description": "Cumin flavor lentil and fresh cilantro soup.",
+            "price": "$7.00"
+        }
+    ],
+    "salads": [
+        {
+            "name": "CHICKEN CAESAR SALAD",
+            "description": "Fresh romaine lettuce tossed with parmesan cheese , garlic croutons and Caesar dressing",
+            "price": "$9.00"
+        },
+        {
+            "name": "BUKHARA SALAD",
+            "description": "Fresh field green tossed with vine-ripe tomatoes, baby cucumber, and Roman lettuce served with your choice of Dressing.",
+            "price": "$8.00"
+        }
+    ],
+    "sauces": [
+        {
+            "name": "CURRY SAUCE",
+            "description": "A traditional brown onion curry prepared with tomatoes, onions and fresh herbs. <br> Chicken $14 | Lamb, Goat $16",
+            "price": ""
+        },
+        {
+            "name": "SHAHI KORMA",
+            "description": "A traditional dish prepared with exotic spices, herbs, nuts and cream based sauce. <br> Vegetable $13 | Paneer $14 | Chicken $14 | Lamb $16 | Prawns $17",
+            "price": ""
+        },
+        {
+            "name": "BUTTER SAUCE",
+            "description": "A deliciously smooth butler, tomato and cream sauce spiced with ginger and garlic. <br> Paneer $14 | Chicken $14 | Lamb $16",
+            "price": ""
+        },
+        {
+            "name": "KARAHI",
+            "description": "Cooked in traditional Indian wok with onions, tomatoes, fenugreek leaves, capsicums, ginger and garlic. <br> Paneer $14 | Chicken $14 | Lamb $16",
+            "price": ""
+        },
+        {
+            "name": "TIKKA MASALA",
+            "description": "A cream based tomato and onion curry cooked with ginger and cilantro. <br> Vegetable $13 | Paneer $14 | Chicken $14 | Lamb $16 | Prawns $17",
+            "price": ""
+        },
+        {
+            "name": "ROGAN JOSH",
+            "description": "The famous dish of Kashmir cooked with tomatoes and brown onions and roasted with Kashmiri spices and finished with yogurt. Chicken $14 | Lamb, Goat $16",
+            "price": ""
+        },
+        {
+            "name": "MANGO CURRY",
+            "description": "Major Grey Sweet Mango cooked in tomato creamy sauce temper with curry leaf and mustard seeds. <br> Vegetable $13 | Paneer $14 | Chicken $14 | Lamb $16 | Prawns $17",
+            "price": ""
+        },
+        {
+            "name": "VINDALOO",
+            "description": "All-time favorite Goan vindaloo sauce cooked in a tangy sauce of wine vinegar, ginger, and potatoes. <br> Vegetable $13 | Chicken $14 | Lamb $16 | Prawns $17",
+            "price": ""
+        },
+        {
+            "name": "COCONUT CURRY",
+            "description": "Rich curry cooked with coconut, ginger, garlic and our special blend of spices and touch of coconut cream. <br> Vegetable $13 | Paneer $14 | Chicken $14 | Lamb $16 | Prawns $17",
+            "price": ""
+        },
+        {
+            "name": "BHUNA",
+            "description": "A very delicious Indian style curry cooked with thick gravy blended with onions, garlic, ginger, tomatoes and enhanced with fresh coriander and spring onions. <br> Paneer $14 | Chicken $14 | Lamb $16 | Prawns $17",
+            "price": ""
+        },
+        {
+            "name": "SAAG",
+            "description": "Freshly Cream of spinach & mustard leaves simmered with onions, garlic and Indian spices. <br> Vegetable, Aloo $13 | Paneer $14 | Chicken $14 | Lamb $16 | Fish (Cod $17, Salmon $20) | Prawns $17",
+            "price": ""
+        },
+        {
+            "name": "JALFREZI",
+            "description": "A rich tomato-based onion curry with bell peppers, garlic and ginger tangy flavor. <br> Vegetable 13 | Paneer 14 | Chicken 14 | Lamb 16 | Prawns 17",
+            "price": ""
+        }
+    ],
+    "tandooriDelight": [
+        {
+            "name": "PANEER TIKKA",
+            "description": "Tender Piece of cheese marinated with delicate spices and roasted in 1andoor and served with Mint and tamarind chutneys",
+            "price": "$15.00"
+        },
+        {
+            "name": "LAMB BOTI KABAB",
+            "description": "Tender piece of lamb marinated with our special blend of In dian Spices finished in clay oven.",
+            "price": "$18.00"
+        },
+        {
+            "name": "CHICKEN TIKKA BREAST",
+            "description": "Juicy spring Boneless chicken rubbed with Indian herbs, yogurt saffron and spices and served with lemon and sliced onions.",
+            "price": "$15.00"
+        },
+        {
+            "name": "TANDOORI FISH",
+            "description": "Fillers of true cod or salmon marinated and cooked in tandoor served with sliced onions and Lemon. <br> Cod $17 | Salmon $20",
+            "price": ""
+        },
+        {
+            "name": "TANDOORI CHICKEN",
+            "description": "Juicy spring half chicken marina ted in yogurt, fresh ground spices and saffron and served with sliced onions an d lemons.",
+            "price": "$15.00"
+        },
+        {
+            "name": "TANDOORI PRAWNS",
+            "description": "Jumbo Prawns marinated in special blend of spices & herbs then roasted in the tandoori served with sliced onions and lemon.",
+            "price": "$20.00"
+        },
+        {
+            "name": "CHICKEN CHILI TIKKA",
+            "description": "Boneless Chicken Breast cooked in clay oven and tossed with Chili Bell Pepper garlic sauce.",
+            "price": "$16.00"
+        },
+        {
+            "name": "RACK OF LAMB",
+            "description": "Tender rack of lamb marinated delicately with garlic, ginger, herb and spices served with sliced onions and lemons.",
+            "price": "$20.00"
+        },
+        {
+            "name": "LAMB SEEKH KABAB",
+            "description": "Ground lamb with onions and Fresh Herb and Spices and cooked in clay oven and served with sliced onions and fresh lime.",
+            "price": "$18.00"
+        },
+        {
+            "name": "MIXED GRILL",
+            "description": "A unique combination of chicken leg quarters, chicken tikka, lamb tikka, seekh kabab, fish, and prawns. All cooked in tandoori and served with grilled onions, peppers, lemon and our special tikka sauce.",
+            "price": "$22.00"
+        }
     ]
 }
