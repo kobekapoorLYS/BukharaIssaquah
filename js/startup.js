@@ -124,4 +124,8 @@ $(document).ready(function ()
 
     $("#menuHeader").text("Sides");
   });
+
+
+  //fix menu bar centering
+  $('#menuBar').css('margin-left', '-=' + ((Math.abs($('.menuButtonsContainer').first().width() - $('.menuButtonsContainer').last().width())) / 2));
 });
