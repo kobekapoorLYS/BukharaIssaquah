@@ -29,7 +29,7 @@
 
 #menuBar h2
 {
-    color: #dc7844;
+    color: #f95300;
 }
 
 #menuDesc
@@ -122,12 +122,12 @@
 
 .menuButton:hover
 {
-    color: #dc7844;
+    color: #f95300;
 }
 
 .selectedMenu
 {
-    color: #dc7844;
+    color: #f95300;
    
 }
 
