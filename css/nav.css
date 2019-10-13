@@ -139,3 +139,9 @@ nav a:hover
     padding-left: 10px;
     padding-right: 10px;
 }
+
+.dropdown-row a:hover
+{
+    font-weight: bold;
+    color: #ffffff;
+}
