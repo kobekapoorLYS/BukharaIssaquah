@@ -95,3 +95,38 @@ nav a:hover
 {
     margin: 0;
 }
+
+/*dropdown menu stuff*/
+.dropdown-content
+{
+    display:none;
+    position: absolute;
+    z-index: 6;
+    border: 1px solid red;
+    
+    text-align: left;
+    background-color: #f95300;
+    
+}
+
+#dropdownWrapper
+{
+    position:relative;
+}
+
+.show
+{
+    display: table;
+}
+
+.dropdown-row
+{
+    display: table-row;
+    
+}
+
+.dropdown-row a
+{
+    display: table-cell;
+    color: #ffffff;
+}
