@@ -11,12 +11,45 @@
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/nav.css">
     <link rel="stylesheet" href="css/about.css" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/menuLoader.js"></script>
+    <script type="text/javascript" src="js/dropdown.js"></script>
+    <script type="text/javascript" src="js/startup.js"></script>
 </head>
 
 <body>
     <nav>
         <ul>
-            <li><a href="index.html#menu">Menu</a></li>
+            <li id="menuNavButton">
+                <a onclick="showDropdown()" class="dropbtn">Menu</a>
+                <div id="dropDownMenu" class="dropdown-content">
+                    <div class="dropdown-row">
+                        <a href="index.html#menu" id="appetizerButton">Appetizers</a>
+                        <a href="index.html#menu" id="vegetarianButton">Vegitarian</a>
+                    </div>
+                    <div class="dropdown-row">
+                        <a href="index.html#menu" id="soupsButton">Soups</a>
+                        <a href="index.html#menu" id="tandooriBreadsButton">Tandoori Breads</a>
+                    </div>
+                    <div class="dropdown-row">
+                        <a href="index.html#menu" id="saladsButton">Salads</a>
+                        <a href="index.html#menu" id="tandooriDelightButton">Tandoori Delight</a>
+                    </div>
+                    <div class="dropdown-row">
+                        <a href="index.html#menu" id="sidesButton">Sides</a>
+                        <a href="index.html#menu" id="biryaniWorldButton">Biryani World</a>
+                    </div>
+                    <div class="dropdown-row">
+                        <a href="index.html#menu" id="drinksButton">Drinks</a>
+                        <a href="index.html#menu" id="saucesButton">Our Sauces</a>
+                    </div>
+                    <div class="dropdown-row">
+                        <a href="index.html#menu" id="dessertsButton">Desserts</a>
+                        <a href="index.html#menu" id="kidsButton">KidsCorner</a>
+                    </div>
+                </div>
+            </li>
             <li><a href="https://www.munchem.com/BUKHARABARGRILL" target="_blank">Order Online</a></li>
             <li id="logo"><a href="index.html"><img src="img/logo.png" alt="Logo" width="150" /></a></li>
             <li><a href="location.html">Locate Us</a></li>
