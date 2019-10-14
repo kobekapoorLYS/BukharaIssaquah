@@ -145,3 +145,8 @@ nav a:hover
     font-weight: bold;
     color: #ffffff;
 }
+
+.dropdown-row .selectedMenu
+{
+    font-weight: bold;
+}

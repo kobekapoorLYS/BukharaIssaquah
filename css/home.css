@@ -126,17 +126,6 @@
     color: #f95300;
 }
 
-.selectedMenu
-{
-    color: #f95300;
-   
-}
-
-.selectedMenu:hover
-{
-    color: #000000;
-}
-
 #menuHeader
 {
     color: #FFFFFF;
