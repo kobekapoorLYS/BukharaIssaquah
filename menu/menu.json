@@ -154,62 +154,62 @@
         {
             "name": "ALDO GOBI",
             "description": "Cauliflower, Potatoes and onions sauteed with tomato based onion masala sauce and fresh herbs.",
-            "price": "$12.00"
+            "price": "$13.00"
         },
         {
             "name": "MUTTER MASALA",
-            "description": "Fresh green peas cooked in creamy tomato curry sauce.<br>Aloo $12 | Mushroom $12 | Paneer $13",
+            "description": "Fresh green peas cooked in creamy tomato curry sauce.<br>Aloo $13 | Mushroom $14 | Paneer $14",
             "price": "$12.00"
         },
         {
             "name": "MALAI KOFTA",
             "description": "Grated vegetables and homemade cheese kolta (dumplings) simmered in a rich korma butler sauce.",
-            "price": "$13.00"
+            "price": "$14.00"
         },
         {
             "name": "KADHI PAKOR",
             "description": "A famous Punjabi house dish with yogurt chickpeas flour and cooked in turmeric and mustard seeds flavor.",
-            "price": "$12.00"
+            "price": "$13.00"
         },
         {
             "name": "BHINDI MASALA (OKRA)",
             "description": "Okra cooked with sauteed onions. tomatoes, special herbs and spices.",
-            "price": "$12.00"
+            "price": "$13.00"
         },
         {
-            "name": "UAAL IAUKA",
-            "description": "Yellow lentils cooked In Punjabi style and aromatic with ginger garlic and roasted Cummins.",
-            "price": "$12.00"
+            "name": "DAALTADKA",
+            "description": "Yellow lentils cooked In Punjabi style and aromatic with ginger garlic and roasted Cummins. ",
+            "price": "$13.00"
         },
         {
             "name": "CHANA MASALA",
             "description": "Chick peas cooked over a slow fire, blended with spices and tomatoes. <br> Plain | Potatoes",
-            "price": "$12.00"
+            "price": "$13.00"
         },
         {
             "name": "BAINGAN BHARTHA",
             "description": "Eggplant roasted over an open flame mashed and seasoned with herbs, sauteed onions and tomatoes.",
-            "price": "$12.00"
+            "price": "$13.00"
         },
         {
             "name": "SHAHI PANEER",
             "description": "Grated homemade cheese cooked in a smooth Masala butter sauce.",
-            "price": "$13.00"
+            "price": "$14.00"
         },
         {
             "name": "CRISPY EGGPLANT",
             "description": "Crispy fried Baby eggplant cooked with pan roasted bell pepper and served with garlic tomato sauce.",
-            "price": "$12.00"
+            "price": "$13.00"
         },
         {
             "name": "DAAL BUKHARA",
             "description": "Indian Spices and finished with tomatoes and roasted garlic.",
-            "price": "$12.00"
+            "price": "$13.00"
         },
         {
             "name": "KASHMIR! DUM ALOO",
             "description": "Baby whole potatoes with Indian spices and nutty butter sauce.",
-            "price": "$12.00"
+            "price": "$14.00"
         }
     ],
     "soups": [
