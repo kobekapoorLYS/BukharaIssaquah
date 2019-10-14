@@ -303,7 +303,7 @@
             "price": ""
         }
     ],
-    "tandooriDelight": [
+    "tandooridelight": [
         {
             "name": "PANEER TIKKA",
             "description": "Tender Piece of cheese marinated with delicate spices and roasted in 1andoor and served with Mint and tamarind chutneys",
@@ -355,7 +355,7 @@
             "price": "$22.00"
         }
     ],
-    "tandooriBreads": [
+    "tandooribreads": [
         {
             "name": "TANDOORI ROTI",
             "description": "Unleavened whole wheat Bread.",
@@ -412,7 +412,7 @@
             "price": "$3.25"
         }
     ],
-    "biryaniWorld": [
+    "biryaniworld": [
         {
             "name": "ROYAL BlRYANI",
             "description": "A classic Mughlai dish of basmati rice cooked  with curry, green peas saffron served with Raita. <br> Vegetables $13 | Chicken (with Bone or Boneless) $14 | Lamb, Goat $16 | Prawns $17",
