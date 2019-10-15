@@ -96,6 +96,12 @@ nav a:hover
     margin: 0;
 }
 
+#yelpIcon
+{
+    border-top: 2px solid #FFFFFF;
+    padding-top: 4px;
+}
+
 /*dropdown menu stuff*/
 .dropdown-content
 {
