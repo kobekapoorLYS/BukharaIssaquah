@@ -145,3 +145,9 @@ nav a:hover
 {
     font-weight: bold;
 }
+
+#closingArrow
+{
+    display: inline-block;
+    vertical-align: bottom;
+}
