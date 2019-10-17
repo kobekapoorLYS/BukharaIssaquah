@@ -157,3 +157,18 @@ nav a:hover
     display: inline-block;
     vertical-align: bottom;
 }
+
+#buffetLink
+{
+    background-color: #f95300;
+    color: #FFFFFF;
+    position: fixed;
+    top: 0;
+    right: 20%;
+    padding: 20px 10px 10px 10px;
+}
+
+#buffetLink a
+{
+    color: #ffffff;
+}
