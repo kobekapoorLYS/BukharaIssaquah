@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\css",
-    "\\img"
+    "\\php"
   ],
-  "SelectedNode": "\\location.html",
+  "SelectedNode": "\\php\\loadData.php",
   "PreviewInSolutionExplorer": false
 }
