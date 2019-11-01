@@ -1,6 +1,4 @@
 <?php
-	echo "called php script";
-
 	$servername = "bukharaissaquah.com:3306";
 	$username = "lys_webAccess";
 	$password = "9JQP&P3H]v3c";
@@ -16,14 +14,34 @@
 	$sql = "SELECT id, menu FROM Buffet";
 	$result = mysqli_query($conn, $sql);
 
-	if (mysqli_num_rows($result) > 0) {
+	if (mysqli_num_rows($result) > 0)
+	{
 		// output data of each row
-		while($row = mysqli_fetch_assoc($result)) {
-			echo "id: " . $row["id"]. " - Menu: " . $row["menu"]. "<br>";
+		while($row = mysqli_fetch_assoc($result))
+		{
+			//echo "id: " . $row["id"]. " - Menu: " . $row["menu"]. "<br>";
+
+			$text = $row["menu"];
+			$text = preg_replace( "/\r|\n/", "", $text);
+			$items = preg_split("/<.*?>/", $text);
+			$items = array_filter($items, create_function('$value', 'return $value !== "" || $value == " ";'));
+
+			/*foreach($items as &$item)
+			{
+				echo "item: " . $item . "<br>";
+			}*/
+
+			echo "<script type='text/javascript'> printBuffet(" . json_encode($items) . "); </script>";
+
+			break;
 		}
-	} else {
+	}
+	else 
+	{
 		echo "0 results";
 	}
+
+
 
 	mysqli_close($conn);
 ?>
