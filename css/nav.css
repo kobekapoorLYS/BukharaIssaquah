@@ -105,20 +105,19 @@ nav a:hover
 /*dropdown menu stuff*/
 .dropdown-content
 {
-    display:none;
+    display: none;
     position: fixed;
     z-index: 6;
     border: 1px solid red;
-    
     text-align: left;
     background-color: #f95300;
-    
     box-shadow: 3px 3px #FFFFFF;
-
     padding: 10px;
-
     margin-top: 10px;
     margin-left: -20px;
+
+
+    -webkit-transform: translateZ(6);
 }
 
 .show

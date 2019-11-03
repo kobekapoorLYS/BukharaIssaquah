@@ -2,6 +2,7 @@
 {
     text-align: center;
     overflow-x: hidden;
+    
 }
 
 #menu
@@ -19,6 +20,7 @@
     width: 100%;
     margin: auto;
     margin-bottom: 70px;
+    
 }
 
 #menuBar
