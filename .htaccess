@@ -1,4 +1,3 @@
-AddHandler application/x-httpd-php .htm .html
 AddType application/x-httpd-php54 .htm .html
 AddType application/x-httpd-php54 .php
 RewriteEngine On
