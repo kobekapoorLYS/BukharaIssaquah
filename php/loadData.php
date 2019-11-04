@@ -1,11 +1,11 @@
 <?php
-	$servername = "bukharaissaquah.com:3306";
+	$servername = "108.167.142.233";
 	$username = "lys_webAccess";
 	$password = "9JQP&P3H]v3c";
 	$dbname = "lys_bukhara_buffet";
 
 	// Create connection
-	$conn = mysqli_connect($servername, $username, $password, $dbname);
+	$conn = mysqli_connect($servername, $username, $password, $dbname, 3306);
 	// Check connection
 	if (!$conn) {
 		die("Connection failed: " . mysqli_connect_error());
