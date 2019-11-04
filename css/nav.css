@@ -115,9 +115,6 @@ nav a:hover
     padding: 10px;
     margin-top: 10px;
     margin-left: -20px;
-
-
-    -webkit-transform: translateZ(6);
 }
 
 .show
@@ -170,4 +167,16 @@ nav a:hover
 #buffetLink a
 {
     color: #ffffff;
+}
+
+@media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0)
+{
+    @media
+    {
+        .dropdown-content, nav
+        {
+            position: static;
+            background-color: red;
+        }
+    }
 }
